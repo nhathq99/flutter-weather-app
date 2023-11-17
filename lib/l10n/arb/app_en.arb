@@ -1,0 +1,29 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "anErrorOccurred": "An error occurred, please try again!",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "close": "Close",
+    "notice": "Notice",
+    "tryAgain": "Try Again",
+    "next": "Next",
+    "startNow": "Start Now",
+    "onboarding1": "Weather App",
+    "onboarding2": "View the weather\nin a simple way",
+    "weather": "Weather",
+    "everyThreeHoursForecast": "Every 3 hours forecast in 5 days",
+    "pressure": "Pressure",
+    "wind": "Wind",
+    "visibility": "Visibility",
+    "humidity": "Humidity",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "search": "Search for a city",
+    "temperatureUnit": "Temperature Unit",
+    "nothingToShow": "Nothing to show, please search for a location"
+
+}
