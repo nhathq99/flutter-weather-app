@@ -4,13 +4,13 @@
 
 Packages using in this source:
 
-State Management: bloc/cubit
-Networking: dio
-DI: get_it
-Image: cached_network_image, flutter_svg
-Localization: flutter_localizations
-Local storage: shared_preferences
-Font: google_fonts
+- State Management: bloc/cubit
+- Networking: dio
+- DI: get_it
+- Image: cached_network_image, flutter_svg
+- Localization: flutter_localizations
+- Local storage: shared_preferences
+- Font: google_fonts
 
 Screenshots:
 ![Screenshot 1](screenshots/screenshot-1.png)
@@ -19,10 +19,11 @@ Screenshots:
 
 ### Run the source
 
-To run the source, follow steps
-Step 1: Open source in VSCode or any IDE.
-Step 2: run ```flutter pub get```.
-Step 3: run ```flutter run --flavor development --target lib/main_development.dart```
+To run the source, follow steps:
+
+- Step 1: Open source in VSCode or any IDE.
+- Step 2: run ```flutter pub get```.
+- Step 3: run ```flutter run --flavor development --target lib/main_development.dart```
     or you can run on VSCode follow: Run -> Run Without Debugging
 
 ---
